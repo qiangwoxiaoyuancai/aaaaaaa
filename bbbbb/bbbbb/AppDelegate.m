@@ -19,6 +19,8 @@
     //ffffff
     
     ////////
+    
+//    NSLog(<#NSString *format, ...#>)
     return YES;
 }
 
