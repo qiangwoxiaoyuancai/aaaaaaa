@@ -16,11 +16,6 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    //ffffff
-    
-    ////////
-    
-//    NSLog(<#NSString *format, ...#>)
     return YES;
 }
 
